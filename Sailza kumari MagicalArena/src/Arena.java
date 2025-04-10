@@ -40,5 +40,6 @@ public class Arena {
         System.out.println("Defender rolls: " + defenseRoll + " (strength: " + defenseStrength + ")");
         System.out.println("Damage dealt: " + damage);
         System.out.println("Defender health: " + defender.getHealth());
+         System.out.println("insert successfully: " + defender.getHealth());
     }
 }
