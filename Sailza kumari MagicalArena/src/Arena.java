@@ -41,5 +41,6 @@ public class Arena {
         System.out.println("Damage dealt: " + damage);
         System.out.println("Defender health: " + defender.getHealth());
          System.out.println("insert successfully: " + defender.getHealth());
+         System.out.println( pull request health: " + defender.getHealth());
     }
 }
