@@ -43,5 +43,6 @@ public class Arena {
         System.out.println("insert successfully: " + defender.getHealth());
         System.out.println( pull request health: " + defender.getHealth());
          System.out.println( push request health: " + defender.getHealth());
+          System.out.println( push2 request health: " + defender.getHealth());
     }
 }
